@@ -1,0 +1,14 @@
+DELAY 1000
+WINDOWS r
+DELAY 500
+STRING cmd
+ENTER
+DELAY 1000
+STRING pip install pillow
+ENTER
+DELAY 1000
+STRING pip install requests
+ENTER
+DELAY 1000
+STRING python "D:\script.py"
+ENTER
